@@ -1,0 +1,17 @@
+
+<
+java:S1481"&Remove this unused "a" local variable.(þ¤«—
+Y
+java:S3518"CMake sure this expression can't be zero before doing this division.(×Èß¯
+K
+java:S1854"5Remove this useless assignment to local variable "i".(×Èß¯
+k
+java:S1989"PHandle the following exception that could be thrown by "getWriter": IOException.(˜µ‹²ÿÿÿÿÿ
+{
+java:S1989"`Handle the following exceptions that could be thrown by "doPost": ServletException, IOException.(Í†»Öúÿÿÿÿ
+P
+java:S1854"5Remove this useless assignment to local variable "a".(éºÙâüÿÿÿÿ
+C
+java:S1481"&Remove this unused "i" local variable.(×Èß¯8Ä÷œÍ.
+K
+java:S1854"5Remove this useless assignment to local variable "a".(þ¤«—
