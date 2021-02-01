@@ -1,6 +1,5 @@
 package com.itheima;
 
-import sun.jvm.hotspot.debugger.SymbolLookup;
 
 public class testmain {
     public static void main(String[] args) {
